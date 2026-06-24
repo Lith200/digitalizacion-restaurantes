@@ -28,7 +28,7 @@ export interface RestaurantData {
   gallery: string[];
 
   socials: {
-    facebook: string;
+    facebook: string; // 👈 Aquí va "string;" no el link
     instagram: string;
     tiktok: string;
   };

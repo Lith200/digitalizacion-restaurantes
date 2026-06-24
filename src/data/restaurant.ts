@@ -52,8 +52,8 @@ export const restaurantData: RestaurantData = {
   ],
 
   socials: {
-    facebook: string;
-    instagram: string;
-    tiktok: string;
-  };
+    facebook: "https://facebook.com",
+    instagram: "https://instagram.com",
+    tiktok: "https://tiktok.com"
+  }
 };
